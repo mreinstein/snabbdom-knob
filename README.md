@@ -1,7 +1,7 @@
 # snabbdom-knob
 a snabbdom based knob
 
-![alt text](knob.png "knob")
+![alt text](knob2.png "knob")
 
 
 ## usage
